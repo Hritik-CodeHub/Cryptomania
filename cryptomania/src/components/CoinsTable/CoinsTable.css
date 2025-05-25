@@ -1,0 +1,24 @@
+.rowStyle {
+    background-color: #16171a;
+    cursor: pointer;
+    font-family: Montserrat;
+  }
+
+.rowStyle :hover {
+      background-color: #131111;
+  }
+
+.pagination-style {
+    padding: 20;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+.pagination-style .MuiPaginationItem-root{
+    color:gold;
+  }
+
+  .linear-prog .MuiLinearProgress-bar {
+    background-color:#EEBC1D; /* Progress bar color */
+  }
